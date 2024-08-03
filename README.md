@@ -1,4 +1,4 @@
-# carsalesdashboard
+# carsalesdashboard 🚗
 
 The **Car Sales Dashboard** is a comprehensive analytical tool developed using **Power BI**, leveraging a detailed sales dataset from a US car dealership for the years 2022 and 2023. This project showcases advanced data analysis techniques and the application of several **DAX formulas** to compute critical **Key Performance Indicators (KPIs)** essential for evaluating sales performance. 
 
